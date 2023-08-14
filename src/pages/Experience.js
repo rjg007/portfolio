@@ -13,14 +13,14 @@ function Experience() {
       <VerticalTimeline lineColor="#3e497a">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2010 - 2014"
+          date="2012 - 2014"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Random High School, Random Place, Random State
+            MES Vidyaranyapura, Bangalore
           </h3>
-          <p> High School Diploma</p>
+          <p> Pre University Degree</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
@@ -29,45 +29,40 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Cool University, Vancouver, British Columbia
+            Sambhram Institute of Tech Bangalore
           </h3>
 
           <h4 className="vertical-timeline-element-subtitle">
             Bachelor's Degree
           </h4>
 
-          <p> Computer Science</p>
+          <p>Mechanical Engineering</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2018 - 2020"
+          date="2020 - 2021"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Back End Engineer - Google
+            Bootcamp on Full Stack Web Development - DCT Academy
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            San Francisco, CA
-          </h4>
-          <p>Developed the backend infrastructure for 3 projects.</p>
+          <h4 className="vertical-timeline-element-subtitle">Bangalore, KA</h4>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2020 - present"
+          date="Apr 2021 - present"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Full Stack Engineer - Twitch
+            Software Engineer - Codewave
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            San Francisco, CA
-          </h4>
+          <h4 className="vertical-timeline-element-subtitle">Bangalore, KA</h4>
           <p>
-            Helped the team launch 2 major features by working both in the front
-            end and back end.
+            Worked primarily on the front-end on projects ranging from a variety
+            of fields
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>

@@ -1,7 +1,8 @@
 .home {
   width: 100%;
   align-items: center;
-  font-family: "Arial", sans-serif;
+  /* font-family: "Arial", sans-serif; */
+  font-family: "Caprasimo", cursive;
   color: #3e497a;
 }
 
@@ -18,7 +19,8 @@
 }
 
 .about h2 {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  /* font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; */
+  font-family: "Caprasimo", cursive;
   font-size: 80px;
   color: #e9d35b;
   height: 50px;
@@ -50,6 +52,10 @@
 .skills .list {
   list-style: none;
   width: 60%;
+}
+
+.skills .item {
+  margin-bottom: 30px;
 }
 
 .list span {
